@@ -1,1 +1,2 @@
-# Leetcode_30DaysOfPandas
+# Leetcode_30DaysOfPandas 🐼
+ All problems are solved in Python Programming Language 🐍
