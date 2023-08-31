@@ -3,39 +3,43 @@
 ## 30 Days of Pandas solutions
 
 ### Data Filtering ✅
-Big Countries
-Recyclable and Low Fat Products
-Customers Who Never Order
-Article Views I
+<li>Big Countries
+<li>Recyclable and Low Fat Products
+<li>Customers Who Never Order
+<li>Article Views I</li>
 
 ### String Methods ✅
-Invalid Tweets
-Calculate Special Bonus
-Fix Names in a Table
-Find Users With Valid E-Mails
-Patients With a Condition
+<li>Invalid Tweets
+<li>Calculate Special Bonus
+<li>Fix Names in a Table
+<li>Find Users With Valid E-Mails
+<li>Patients With a Condition</li>
+
 ### Data Manipulation ✅
-Nth Highest Salary
-Second Highest Salary
-Department Highest Salary
-Rank Scores
-Delete Duplicate Emails
-Rearrange Products Table
+<li>Nth Highest Salary
+<li>Second Highest Salary
+<li>Department Highest Salary
+<li>Rank Scores
+<li>Delete Duplicate Emails
+<li>Rearrange Products Table</li>
+
 ### Statistics ✅
-The Number of Rich Customers
-Immediate Food Delivery I
-Count Salary Categories
+<li>The Number of Rich Customers
+<li>Immediate Food Delivery I
+<li>Count Salary Categories</li>
+
 ### Data Aggregation ✅
-Find Total Time Spent by Each Employee
-Game Play Analysis I
-Number of Unique Subjects Taught by Each Teacher
-Classes More Than 5 Students
-Customer Placing the Largest Number of Orders
-Group Sold Products By The Date
-Daily Leads and Partners
+<li>Find Total Time Spent by Each Employee
+<li>Game Play Analysis I
+<li>Number of Unique Subjects Taught by Each Teacher
+<li>Classes More Than 5 Students
+<li>Customer Placing the Largest Number of Orders
+<li>Group Sold Products By The Date
+<li>Daily Leads and Partners</li>
+
 ### Data Aggregation ✅
-Actors and Directors Who Cooperated At Least Three Times
-Replace Employee ID With The Unique Identifier
-Students and Examinations
-Managers with at Least 5 Direct Reports
-Sales Person
+<li>Actors and Directors Who Cooperated At Least Three Times
+<li>Replace Employee ID With The Unique Identifier
+<li>Students and Examinations
+<li>Managers with at Least 5 Direct Reports
+<li>Sales Person
